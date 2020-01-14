@@ -1,0 +1,134 @@
+
+section{
+background-color:rgb(32, 46, 59);
+color:rgb(221, 221, 221);
+display:block;
+font-family:Usual, sans-serif;
+font-size:14px;
+font-stretch:100%;
+font-style:normal;
+font-weight:400;
+height:15px;
+letter-spacing:0.5px;
+line-height:14px;
+padding-bottom:15px;
+padding-left:40px;
+padding-right:40px;
+padding-top:15px;
+text-align:center;
+text-size-adjust:100%;
+transition-duration:0.3s;
+transition-property:all;
+transition-timing-function:ease-out;
+width:1343px;
+}
+.icon{
+display: inline-block;
+}
+.headphone{
+    height: 15px;
+    cursor: pointer;
+    margin: 0 10px 0 0;
+}
+.sub-header{
+    background-color: rgb(255, 255, 255);
+    color: rgb(102, 102, 102);
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 400;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.logo{
+    float: left;
+    width: 33.3333%;
+    padding: 0 40px;
+}
+.logo1{
+background-image:url(https://cdn.shopify.com/s/files/1/0340/7305/t/20/assets/status-brand-logo.svg?6822);
+background-size:125px 52px;
+color:rgb(85, 26, 139);
+cursor:pointer;
+display:inline-block;
+font-family:Usual, sans-serif;
+font-size:14px;
+font-weight:400;
+height:52px;
+letter-spacing:0.5px;
+line-height:0px;
+text-size-adjust:100%;
+vertical-align:baseline;
+width:125px;
+
+}
+.menu{
+    margin: 7.5px 0 0;
+    float: left;
+    width: 33.3333%;
+}
+ul{
+    width: 420px;
+    list-style: none;
+    margin: 0 auto;
+}
+li{
+    float: left;
+}
+a{
+    text-align: center;
+    letter-spacing: 1px;
+    line-height: 37px;
+    display: block;
+    color: #202e3b;
+    padding: 0 20px;
+    font-weight: 400;
+}
+.another-header{
+padding:0 40px 0 10px ;
+color: rgb(135,135,135);
+cursor: pointer;
+font-weight: 400;
+}
+.currency{
+    margin: 7.5px 0 0;
+    display: block;
+    font-size: 12px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    line-height: 36px;
+}
+.usa{
+    width: 20px;
+}
+.select{
+    border: none;
+    color: rgb(135,135,135);
+    cursor: pointer;
+    font-weight: 400;
+}
+.line {
+    height: 40px;
+}
+.fa{
+    color: rgb(135,135,135);
+}
+.image1{
+    width: 100%;
+    height: auto;
+}
+.left{
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+p{
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 50px;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
